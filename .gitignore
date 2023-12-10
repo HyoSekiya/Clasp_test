@@ -1,0 +1,9 @@
+# node_modeulesフォルダはいらない
+node_modules/
+
+# .ideaフォルダ
+.idea
+
+# git ignoreファイル
+.gitignore
+
